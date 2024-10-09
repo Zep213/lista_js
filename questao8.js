@@ -10,4 +10,4 @@ for(let i = 0;i< numeros.length;i++){
     }
 }
 console.log(multiplos)
-console.log(multiplos_3)
+console.log(numeros)
